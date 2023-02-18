@@ -33,70 +33,77 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvV24.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 1",
+        "text_Content": "Garten of Banban is a stunning and serene garden located in the heart of Japan. Known for its peaceful atmosphere, picturesque scenery, and rich history, this garden is a popular destination for both locals and tourists alike..",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvWYl.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 2",
+        "text_Content": "Garten of Banban is a stunning and serene garden located in the heart of Japan. Known for its peaceful atmosphere, picturesque scenery, and rich history, this garden is a popular destination for both locals and tourists alike..",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvhpS.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 3",
+        "text_Content": "Over the years, the garden has undergone numerous renovations and restorations, and today it is considered one of the most well-preserved gardens in Japan. The garden is located in the city of Kanazawa, which is situated on the northern coast of Honshu Island. Kanazawa is known for its rich cultural heritage, and the Garten of Banban is one of the most popular tourist attractions in the area..",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvXv2.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 4",
+        "text_Content": "The garden covers an area of approximately 11,000 square meters and is divided into two main sections: the upper garden and the lower garden. The upper garden is characterized by its wide-open spaces, while the lower garden features a more intimate setting with a series of ponds and waterfalls..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvwT7.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 5",
+        "text_Content": "One of the most striking features of the garden is its use of water. The garden is designed to take advantage of the natural landscape, with streams and waterfalls flowing throughout the area. The sound of running water creates a soothing atmosphere and helps to drown out any outside noise.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIvwT7.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 6",
+        "text_Content": "Another notable feature of the garden is its use of rocks and stones. The garden features a variety of large rocks and boulders, which are strategically placed to create a sense of balance and harmony. Some of the rocks are so large that they appear to be part of the natural landscape.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGIUchP.jpg",
+      "title": "Banban-Helper-ru-
+ mod pack 7",
+        "text_Content": "The garden is also home to a wide variety of trees and plants, including cherry blossoms, maple trees, and azaleas. During the spring, the garden is filled with the beautiful pink blossoms of the cherry trees, creating a stunning backdrop for visitors.",
+        "text_Content_1": ""
 
 
 
